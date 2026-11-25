@@ -78,5 +78,9 @@ All screenshots in `evidence/` are genuine browser renderings of the program's c
 - `07-secret-exclusion.png` — git status, `.gitignore` rules and placeholder-only `.env.example`
 - `outputs/execution-log.txt` — sanitized full execution log (no key material)
 
+## Completed report
+- `report/Lab_9A_AES_ECB_GCM_Aditey_Mehra.docx` — editable completed lab report populated from the actual execution.
+- `report/Lab_9A_AES_ECB_GCM_Aditey_Mehra.pdf` — exported final PDF (15 pages), checked for readability and text extraction.
+
 ## Repository
 Private repository: https://github.com/incognito-unlimited/Lab9A-AES-ECB-GCM
