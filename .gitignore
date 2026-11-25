@@ -1,0 +1,19 @@
+# Local secret and key files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Generated ciphertext / plaintext / decrypted artifacts
+outputs/*.bin
+outputs/*.json
+outputs/*.enc
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
